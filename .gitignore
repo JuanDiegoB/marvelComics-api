@@ -1,0 +1,101 @@
+# Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+[Bb]uild[Ll]og.*
+[Dd]ebug[Ll]og.*
+[Rr]elease[Ll]og.*
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Bb]uild/
+[Ll]og/
+[Ll]ogs/
+[Bb]uild[Ll]og.*
+[Dd]ebug[Ll]og.*
+[Rr]elease[Ll]og.*
+
+# NuGet packages
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Microsoft Azure Build Output
+csx/
+*.build.csdef
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Lock files
+*.lock.json
+
+# Logs
+*.log
+*.log2
+*.log3
+
+# NPM Packages
+node_modules/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+.generated/
+
+# Entity Framework Migrations
+migrations/
+
+# Publish
+.publish/
+wwwroot/
+
+# OS generated files
+[Dd]esktop.ini
+[Tt]humbs.db
+[Dd]S_Store
+Icon?
+__MACOSX/
+
+# Rider project files
+.idea/
+.idea_modules/
+.idea/workspace.xml
+.idea/task.xml
+.idea/usage.statistics.xml
+.idea/dictionaries
+.idea/vcs.xml
+
+# Rider / ReSharper solution-wide files
+*.sln.docstates
